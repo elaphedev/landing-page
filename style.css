@@ -181,10 +181,12 @@ button.sign-up {
 
 .modal-heading {
   margin-bottom: 0;
+  font-size: 24px;
 }
 
 .modal-text {
   margin-top: 0;
+  font-size: 18px;
   color: #e5e7eb;
 }
 
