@@ -71,7 +71,7 @@ button.sign-up {
   justify-content: space-between;
   padding-left: 12%;
   padding-right: 12%;
-  padding-bottom: 55px;
+  padding-bottom: 40px;
 }
 
 .left {
@@ -129,4 +129,29 @@ button.sign-up {
   width: 200px;
   font-size: 18px;
   color: #71797e;
+}
+
+.quote-section {
+  height: 475px;
+  background-color: #e5e7eb;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.quote-text {
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 300;
+  color: #1f2937;
+  width: 790px;
+  margin-bottom: 0;
+}
+
+.quote-credit {
+  font-size: 24px;
+  font-weight: 800;
+  margin-left: 480px;
+  margin-top: 0;
 }
